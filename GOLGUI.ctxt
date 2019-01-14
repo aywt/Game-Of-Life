@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GOLGUI()
+comment0.text=\r\n\ Constructs\ a\ GUI\ version\ of\ Game\ Of\ Life.\r\n
+comment1.params=
+comment1.target=void\ makeFrame()
+comment2.params=x\ y
+comment2.target=int\ neighbourCheck(int,\ int)
+comment3.params=
+comment3.target=void\ setRules()
+comment3.text=\r\n\ Sets\ the\ state\ according\ to\ the\ rules\ of\ Game\ of\ Life.\ \r\n
+comment4.params=
+comment4.target=void\ printGeneration()
+comment5.params=
+comment5.target=void\ randomStart()
+comment6.params=
+comment6.target=void\ endGameDialog()
+numComments=7

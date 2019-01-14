@@ -1,0 +1,35 @@
+
+/**
+ * Write a description of class Game here.
+ * 
+ * @author Annaliese Tan
+ * @version 1.0 2015-0m-dd
+ */
+public class Game
+{
+   /**
+    * Write a description of method main here.
+    *
+    * @param argument not used
+    */
+   public static void main(String[] argument)
+   {
+      
+   } // end of main(String[] argument)
+   
+   /**
+    * Returns a string representation of this [object].
+    *
+    * @return a string representing this [object]
+    */
+    public String toString()
+    {
+        return getClass().getName()
+        + "["
+        + "label 1: " + field1
+        + ", label 2: " + field2
+        + ", label 3: " + field3
+        + "]";
+    } // end of method toString()    
+
+} // end of class Game

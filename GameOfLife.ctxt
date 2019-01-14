@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Prints\ the\ game\ of\ life\ and\ each\ generation.\r\n\ \r\n\ @param\ args\ argument\ not\ used\r\n
+comment1.params=x\ y
+comment1.target=int\ check(int,\ int)
+comment2.params=
+comment2.target=void\ neighbourCheck()
+comment3.params=
+comment3.target=void\ printGeneration()
+comment4.params=
+comment4.target=void\ randomStart()
+numComments=5

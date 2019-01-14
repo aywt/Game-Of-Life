@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.params=state\ xCoordinate\ yCoordinate
+comment0.target=Cell(boolean,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cell\r\n\ \r\n\ @param\ cellState\ state\ of\ this\ cell\r\n\ @param\ xCoordinate\ x\ coordinate\ of\ this\ cell\r\n\ @param\ yCoordinate\ y\ coordinate\ of\ this\ cell\r\n
+comment1.params=
+comment1.target=javax.swing.JButton\ getButton()
+comment1.text=\r\n\ Returns\ a\ button\ with\ the\ correct\ color\ coding\ (yellow\ \=\ alive,\ grey\ \=\ dead)\r\n\r\n\ @return\ a\ button\ with\ the\ correct\ color\ coding\ (yellow\ \=\ alive,\ grey\ \=\ dead)\r\n
+comment2.params=
+comment2.target=int\ getXCoordinate()
+comment2.text=\r\n\ Returns\ the\ x\ coordinate\ of\ this\ cell.\r\n\r\n\ @return\ x\ coordinate\ of\ this\ cell\r\n
+comment3.params=
+comment3.target=int\ getYCoordinate()
+comment3.text=\r\n\ Returns\ the\ y\ coordinate\ of\ this\ cell.\r\n\r\n\ @return\ y\ coordinate\ of\ this\ cell\ \r\n
+comment4.params=
+comment4.target=boolean\ getCellState()
+comment4.text=\r\n\ Returns\ the\ state\ of\ this\ cell.\r\n\r\n\ @return\ state\ of\ this\ cell\ \r\n
+comment5.params=state
+comment5.target=void\ setCellState(boolean)
+comment5.text=\r\n\ Sets\ this\ cell\ as\ alive\ or\ dead.\r\n\ \r\n\ @param\ state\ state\ of\ this\ cell\r\n
+comment6.params=xCoordinate
+comment6.target=void\ setXCoordinate(int)
+comment6.text=\r\n\ Sets\ the\ x\ coordinate\ of\ this\ cell.\r\n\ \r\n\ @param\ xCoordinate\ x\ coordinate\ of\ this\ cell\r\n
+comment7.params=yCoordinate
+comment7.target=void\ setYCoordinate(int)
+comment7.text=\r\n\ Sets\ the\ y\ coordinate\ of\ this\ cell.\r\n\ \r\n\ @param\ yCoordinate\ y\ coordinate\ of\ this\ cell\r\n
+comment8.params=event
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.text=\r\n\ Handles\ about\ button\ items.\r\n\ \r\n\ @param\ event\ event\ objects\ generated\ from\ about\ items\ \r\n
+numComments=9
